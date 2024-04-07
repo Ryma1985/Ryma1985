@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ryma1985
-- 👀 I’m interested in IA and machine learning
+- 👀 I’m interested in AI and machine learning
 - 🌱 I’m currently learning Master degree
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
